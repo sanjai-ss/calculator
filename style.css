@@ -57,3 +57,8 @@ button:active {
 .operator-btn:active {
   background-color: hsl(35, 100%, 75%);
 }
+#calculator h1{
+  color: hsl(35, 100%, 55%);
+  margin-left:160px ;
+  font-size:40px ;
+}
